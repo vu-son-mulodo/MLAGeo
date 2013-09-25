@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>mulodo.com.travisrobotium</groupId>
-	<artifactId>travisrobotum</artifactId>
+	<artifactId>travisrobotium</artifactId>
 	<version>1.0</version>
 	<packaging>pom</packaging>
 
-	<name>travisrobotum</name>
+	<name>travisrobotium</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
